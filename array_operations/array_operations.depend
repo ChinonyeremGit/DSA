@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696956173 source:c:\users\eziag\desktop\dsa\array_operations\main.c
+	<stdio.h>
+	<stdlib.h>
+
