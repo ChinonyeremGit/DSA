@@ -1,6 +1,7 @@
 #include "array_operations.h"
 #include "insertion.h"
 #include "traversal.h"
+#include "main.h"
 
 
 int main()
@@ -17,6 +18,9 @@ int main()
 
             // returns new array size after insertion
             size = array_insertion(array, size);
+            printf("\n I am done with insertion and new size is %d \n", size);
+            size = item_deletion(array, size);
+            printf("New size is %d \n", size);
 
             for (i = 0; i < size; i++){
                 printf("%d", array[i]);
