@@ -1,5 +1,14 @@
 # depslib dependency file v1.0
-1696956173 source:c:\users\eziag\desktop\dsa\array_operations\main.c
+1697002661 source:c:\users\eziag\desktop\dsa\array_operations\main.c
+	"array_operations.h"
+	"insertion.h"
+	"traversal.h"
+
+1697002519 c:\users\eziag\desktop\dsa\array_operations\array_operations.h
 	<stdio.h>
 	<stdlib.h>
+
+1697002498 c:\users\eziag\desktop\dsa\array_operations\insertion.h
+
+1697002473 c:\users\eziag\desktop\dsa\array_operations\traversal.h
 
